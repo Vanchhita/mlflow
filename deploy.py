@@ -106,7 +106,7 @@ print(artifact_path)
 
 #Download the artifact in local machine
 
-model_path = mlflow.artifacts.download_artifacts(artifact_path,dst_path="C:\\Users\v\Desktop\Models")
+model_path = mlflow.artifacts.download_artifacts(artifact_path,dst_path="C:\\Users\v\mlflow\mlflow\.github\workflows\Models")
 
 print("MODEL PATH:",model_path)
 
