@@ -18,8 +18,8 @@ env:
   L1_RATIO: 0.9
   RANDOM_STATE: 42
   EXPERIMENT_NAME: "Default"
-  RUN_NAME: "salty-donkey-31"
-  MLFLOW_TRACKING_URI: "https://a7ed-49-36-211-204.in.ngrok.io"
+  RUN_NAME: "languid-horse-842"
+  MLFLOW_TRACKING_URI: "https://0164-2405-201-6013-8ba4-80fe-9734-a413-68bf.in.ngrok.io"
   AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
   AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   S3_BUCKET_NAME: "dts-mlops-bucket"
